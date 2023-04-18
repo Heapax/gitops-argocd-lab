@@ -24,7 +24,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/albertogd/gitops-argocd-lab.git
+        repoURL: https://github.com/Heapax/gitops-argocd-lab.git
         targetRevision: main
         path: base/config/{{template}}
         helm:
